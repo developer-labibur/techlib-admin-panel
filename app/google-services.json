@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244610593942",
+    "project_id": "tech-lib-sl",
+    "storage_bucket": "tech-lib-sl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244610593942:android:41e5b9c09ebbc757247eb7",
+        "android_client_info": {
+          "package_name": "com.rudhashi.techlib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeIZrlVSlBT5knGiPDzdhrRadaJAhDW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244610593942:android:60f4c63d5718f249247eb7",
+        "android_client_info": {
+          "package_name": "com.rudhashi.techlibadminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeIZrlVSlBT5knGiPDzdhrRadaJAhDW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
